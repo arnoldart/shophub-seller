@@ -33,7 +33,7 @@ export default function Profile() {
               <label className="block text-sm font-medium text-gray-700 mb-2">Store Name *</label>
               <input
                 type="text"
-                defaultValue="Nexus Electronics"
+                defaultValue="shophub-seller"
                 className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                 required
               />
@@ -42,7 +42,7 @@ export default function Profile() {
               <label className="block text-sm font-medium text-gray-700 mb-2">Store URL</label>
               <input
                 type="text"
-                defaultValue="nexus-electronics"
+                defaultValue="shophub-seller"
                 className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
               />
             </div>
@@ -65,7 +65,7 @@ export default function Profile() {
                 <label className="block text-sm font-medium text-gray-700 mb-2">Email Address *</label>
                 <input
                   type="email"
-                  defaultValue="contact@nexuselectronics.com"
+                  defaultValue="arnoldart.091203@gmail.com"
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                   required
                 />
@@ -154,7 +154,7 @@ export default function Profile() {
                 <label className="block text-sm font-medium text-gray-700 mb-2">Account Holder Name</label>
                 <input
                   type="text"
-                  placeholder="Nexus Electronics LLC"
+                  placeholder="Shophub Seller"
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                 />
               </div>

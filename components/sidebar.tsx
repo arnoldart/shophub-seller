@@ -65,7 +65,7 @@ export function Sidebar() {
               <div className="w-8 h-8 bg-purple-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">N</span>
               </div>
-              <span className="text-xl font-semibold text-gray-900">Nexus</span>
+              <span className="text-xl font-semibold text-gray-900">Shophub Seller</span>
             </div>
           </div>
 
@@ -140,7 +140,7 @@ export function Sidebar() {
                 </div>
               </div>
             </div>
-            <p className="text-xs text-gray-500 mt-2">© 2023 Nexus Inc.</p>
+            <p className="text-xs text-gray-500 mt-2">© 2023 Shophub Seller Inc.</p>
           </div>
         </div>
       </div>
